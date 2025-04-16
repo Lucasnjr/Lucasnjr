@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Lucas Neumann Júnior, from Rio Grande do Sul, Brazil<br><br>📚 I'm currently learning PYTHON.<br>🎯 Goals: <br>       - Make my first significant contribution to an open-source project.</p>
+<p align="left">I'm Lucas Neumann Júnior, from Rio Grande do Sul, Brazil<br><br>📚 I'm currently learning Java.<br>🎯 Goals: <br>       - Make my first significant contribution to an open-source project.</p>
 
 ###
 
